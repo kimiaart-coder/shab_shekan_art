@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title desc">
+  <title id="title">Shab Shekan Art</title><desc id="desc">نشان هنری شب شکن</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3d497"/><stop offset="1" stop-color="#a87638"/></linearGradient></defs>
+  <g fill="none" stroke="url(#g)" stroke-width="2.6">
+    <circle cx="76" cy="74" r="50"/><path d="M89 36c-29 5-40 39-21 60 14 15 37 13 49-1-8 25-40 35-62 17-27-21-21-65 11-79 8-3 16-3 23-1z" fill="url(#g)" stroke="none"/>
+    <path d="M52 75c15-14 33-14 48 0-15 14-33 14-48 0z"/><circle cx="76" cy="75" r="5" fill="url(#g)" stroke="none"/>
+  </g>
+  <text x="152" y="70" fill="#f3eadb" font-family="Georgia,serif" font-size="37" letter-spacing="5">SHAB SHEKAN</text>
+  <text x="154" y="104" fill="#b99768" font-family="Arial,sans-serif" font-size="16" letter-spacing="9">ART GALLERY</text>
+  <path d="M154 119h322" stroke="#6d563c" stroke-width="1"/>
+</svg>
